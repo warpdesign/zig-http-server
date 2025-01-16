@@ -23,3 +23,8 @@ a moving target, this may very well fail to build with a future version.
 ## How to build
 
 > zig build-exe ./server.zig
+
+## Acknowledgements
+
+- [openmymind.net](https://www.openmymind.net/TCP-Server-In-Zig-Part-1-Single-Threaded/) provied valuable information about how to write a server using the standard posix interface of Zig
+- [zig.guide](https://zig.guide/) is an alternative to the official Zig documentation that's more accessible
