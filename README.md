@@ -15,3 +15,11 @@ When I mean very basic, I mean it:
 
 Also this is not following the good practices so you should not
 use this code or server other than for educational purpose! :)
+
+## Requirements
+The server has been developed using Zig 0.13.0. As the language is quite
+a moving target, this may very well fail to build with a future version.
+
+## How to build
+
+> zig build-exe ./server.zig
